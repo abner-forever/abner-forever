@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Abner
 - 👋 welcome my github 
-- 🌍 this is my website [abner](http://foreverheart.top/)
 
 <!--START_SECTION:waka-->
 
