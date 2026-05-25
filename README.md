@@ -1,83 +1,80 @@
 <h1 align="center">Hi there 👋, I'm Abner</h1>
 
 <p align="center">
-  <b>持续学习的开发者 / Builder / 终身成长者</b><br/>
-  把想法变成产品，把技术变成价值。
+  <b>Developer / Builder / Lifelong Learner</b><br/>
+  专注把想法快速落地成可持续迭代的产品。
 </p>
 
 ---
 
 ## 🙋‍♂️ 关于我
 
-- 👨‍💻 热爱编程与产品落地，关注 **Web / AI / 自动化效率工具**
-- 🧠 正在持续提升：系统设计、工程化能力、产品思维
-- 🌱 信条：**每天进步一点点，长期主义会给出复利答案**
-- ✨ 目标：打造真正能解决问题、被用户持续使用的项目
+- 👨‍💻 关注方向：**Web 开发、AI 应用、自动化效率工具**
+- 🧠 持续提升：系统设计、工程化能力、产品思维
+- 🌱 行动方式：长期主义 + 高频复盘 + 小步快跑
+- ✨ 目标：打造真正解决问题、值得长期使用的产品
 
-## 🧰 技术栈（可按实际情况继续补充）
+## 🧰 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow" />
   <img src="https://img.shields.io/badge/Language-TypeScript-blue" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB" />
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-NestJS-E0234E" />
   <img src="https://img.shields.io/badge/Backend-Node.js-339933" />
   <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-informational" />
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Linux-9cf" />
 </p>
 
-> 如果你愿意，我也可以下一步按你真实技术栈帮你精确替换成最匹配版本。
+---
+
+## 🚀 精选项目
+
+### 🔹 [MediaForge](https://github.com/abner-forever/MediaForge)
+自动化的微信公众号内容发布工具：从微博发现优质图文，结合 AI 完成内容评分与文案生成，再一键发布到公众号。
+
+- **方向**：内容自动化 / AI 工作流
+- **技术栈**：Python
+- **亮点**：内容发现 + AI 处理 + 自动发布的一体化流程
+
+### 🔹 [abner-blog](https://github.com/abner-forever/abner-blog)
+基于 **NestJS + React** 的现代化全栈博客系统，采用 **pnpm Monorepo** 架构。
+
+- **方向**：全栈工程实践
+- **技术栈**：TypeScript / NestJS / React
+- **亮点**：前后端分层清晰，适合持续迭代与功能扩展
+
+### 🔹 [react-blog](https://github.com/abner-forever/react-blog)
+个人博客网站项目，用于记录文章、帖子与个人技术心得沉淀。
+
+- **方向**：内容平台 / 个人知识管理
+- **技术栈**：JavaScript / React
+- **亮点**：面向真实写作与输出场景的长期项目
 
 ---
 
-## 🚀 精选项目（Featured Projects）
+## 📌 当前重点（Now）
 
-> 建议把下面仓库名和描述替换成你的真实项目，我先给你一个清晰、直观的结构模板。
-
-### 1) 项目 A：核心产品 / 工具型项目
-- **一句话介绍**：用来解决什么问题，给谁用。
-- **亮点**：
-  - ✅ 功能亮点 1
-  - ✅ 功能亮点 2
-  - ✅ 功能亮点 3
-- **技术栈**：React + Node.js + MySQL
-- **仓库地址**：`https://github.com/yourname/project-a`
-- **在线演示**：`https://demo-link.com`
-
-### 2) 项目 B：效率工具 / 自动化脚本
-- **一句话介绍**：把重复工作自动化，节省时间。
-- **亮点**：
-  - ⚡ 自动化流程编排
-  - 📊 数据可视化输出
-  - 🔐 基础权限与日志管理
-- **技术栈**：Python / Node.js / API Integrations
-- **仓库地址**：`https://github.com/yourname/project-b`
-
-### 3) 项目 C：学习实践 / 技术验证项目
-- **一句话介绍**：用于验证某项新技术在真实场景中的可行性。
-- **亮点**：
-  - 🧪 从 0 到 1 的完整实践
-  - 📦 标准化工程结构
-  - 📚 完整文档与复盘
-- **仓库地址**：`https://github.com/yourname/project-c`
+- 🔭 正在推进：**AI + 内容生产效率方向的产品化尝试**
+- 🌍 近期关注：**全栈工程化、可维护性、用户体验优化**
+- 🛠️ 当前任务：项目功能迭代、结构优化与发布流程完善
+- 🧭 下一目标：稳定版本发布 + 用户反馈闭环
 
 ---
 
-## 📌 我在做什么（Now）
+## 🗓️ Recent Activity（自动更新）
 
-- 🔭 目前正在推进：**一个可持续迭代的个人产品项目**
-- 🌍 近期关注方向：**AI + 内容/效率场景结合**
-- 🛠️ 当前任务：提升项目可维护性、性能与用户体验
-- 🧭 下一阶段目标：完成稳定版本发布 + 持续收集用户反馈
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> 该区块由 GitHub Actions 定时更新（每 6 小时）。
 
 ---
 
-## 🗓️ 最近动态记录（Recent Updates）
+## 📊 Activity Graph
 
-- **2026-05**：优化 GitHub 主页结构，增加项目展示与个人介绍模块
-- **2026-04**：完成一个阶段性项目重构（代码组织、文档、部署流程）
-- **2026-03**：开始系统化记录开发周报与技术复盘
-
-> 你可以把这块当作「公开工作日志」，每月更新 2~4 条即可，长期非常加分。
+[![Abner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abner-forever&theme=github-compact)](https://github.com/abner-forever)
 
 ---
 
@@ -86,22 +83,12 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- 你也可以添加 GitHub Stats 卡片 -->
-<!--
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=default" />
-</p>
--->
-
 ---
 
-## 🤝 联系我
+## 🤝 联系方式
 
 - 📮 Email：`your-email@example.com`
-- 💬 微信 / X / Blog：`可补充`
-- 🤝 欢迎交流：技术、产品、效率系统、长期成长
-
----
+- 💬 X / Blog / WeChat：`updating...`
 
 <p align="center">
   <i>Thanks for visiting my profile 🚀</i>
