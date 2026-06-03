@@ -1,20 +1,29 @@
 name: Waka Readme
+
 on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 0 0 * * ?' // 每天零点执行
+    # Run once per day at 00:00 UTC.
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with WakaTime metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with WakaTime metrics
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False" # False隐藏工作的项目
+          GH_TOKEN: ${{ github.token }}
+          SHOW_PROJECTS: "False" # Hide WakaTime projects.
           SHOW_LOC_CHART: "False"
-          SHOW_TIMEZONE: "False" # False隐藏您所在的时区
+          SHOW_TIMEZONE: "False" # Hide local timezone.
           SHOW_PROFILE_VIEWS: "False"
-
