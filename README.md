@@ -81,6 +81,66 @@
 ## 📈 开发数据
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 42.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 154 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+🌆 Daytime                844 commits         ███████████░░░░░░░░░░░░░░   42.28 % 
+🌃 Evening                687 commits         █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌙 Night                  160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Tuesday                  236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Wednesday                234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Thursday                 553 commits         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Friday                   199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Saturday                 215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Sunday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               11 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+
+ Last Updated on 03/06/2026 14:54:05 UTC
 <!--END_SECTION:waka-->
 
 ---
