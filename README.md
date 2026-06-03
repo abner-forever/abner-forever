@@ -1,6 +1,95 @@
-### Hi there 👋, I'm Abner
-- 👋 welcome my github 
+<h1 align="center">Hi there 👋, I'm Abner</h1>
+
+<p align="center">
+  <b>Developer / Builder / Lifelong Learner</b><br/>
+  专注把想法快速落地成可持续迭代的产品。
+</p>
+
+---
+
+## 🙋‍♂️ 关于我
+
+- 👨‍💻 关注方向：**Web 开发、AI 应用、自动化效率工具**
+- 🧠 持续提升：系统设计、工程化能力、产品思维
+- 🌱 行动方式：长期主义 + 高频复盘 + 小步快跑
+- ✨ 目标：打造真正解决问题、值得长期使用的产品
+
+## 🧰 技术栈
+
+<p>
+  <img src="https://img.shields.io/badge/Language-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-blue" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-NestJS-E0234E" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-informational" />
+  <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Linux-9cf" />
+</p>
+
+---
+
+## 🚀 精选项目
+
+### 🔹 [MediaForge](https://github.com/abner-forever/MediaForge)
+自动化的微信公众号内容发布工具：从微博发现优质图文，结合 AI 完成内容评分与文案生成，再一键发布到公众号。
+
+- **方向**：内容自动化 / AI 工作流
+- **技术栈**：Python
+- **亮点**：内容发现 + AI 处理 + 自动发布的一体化流程
+
+### 🔹 [abner-blog](https://github.com/abner-forever/abner-blog)
+基于 **NestJS + React** 的现代化全栈博客系统，采用 **pnpm Monorepo** 架构。
+
+- **方向**：全栈工程实践
+- **技术栈**：TypeScript / NestJS / React
+- **亮点**：前后端分层清晰，适合持续迭代与功能扩展
+
+### 🔹 [react-blog](https://github.com/abner-forever/react-blog)
+个人博客网站项目，用于记录文章、帖子与个人技术心得沉淀。
+
+- **方向**：内容平台 / 个人知识管理
+- **技术栈**：JavaScript / React
+- **亮点**：面向真实写作与输出场景的长期项目
+
+---
+
+## 📌 当前重点（Now）
+
+- 🔭 正在推进：**AI + 内容生产效率方向的产品化尝试**
+- 🌍 近期关注：**全栈工程化、可维护性、用户体验优化**
+- 🛠️ 当前任务：项目功能迭代、结构优化与发布流程完善
+- 🧭 下一目标：稳定版本发布 + 用户反馈闭环
+
+---
+
+## 🗓️ Recent Activity（自动更新）
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> 该区块由 GitHub Actions 定时更新（每 6 小时）。
+
+---
+
+## 📊 Activity Graph
+
+[![Abner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abner-forever&theme=github-compact)](https://github.com/abner-forever)
+
+---
+
+## 📈 开发数据
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+
+---
+
+## 🤝 联系方式
+
+- 📮 Email：`your-email@example.com`
+- 💬 X / Blog / WeChat：`updating...`
+
+<p align="center">
+  <i>Thanks for visiting my profile 🚀</i>
+</p>

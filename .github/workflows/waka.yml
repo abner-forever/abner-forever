@@ -3,7 +3,8 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 0 0 * * ?' // 每天零点执行
+    # 每天 UTC 00:00 执行
+    - cron: '0 0 * * *'
 jobs:
   update-readme:
     name: Update Readme with Metrics
