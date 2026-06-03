@@ -87,8 +87,7 @@
 
 ## 🤝 联系方式
 
-- 📮 Email：`your-email@example.com`
-- 💬 X / Blog / WeChat：`updating...`
+- 📮 Email：`abner.foreverheart@gmail.com`
 
 <p align="center">
   <i>Thanks for visiting my profile 🚀</i>
