@@ -65,8 +65,8 @@
 
 ## 🗓️ Recent Activity（自动更新）
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 > 该区块由 GitHub Actions 定时更新（每 6 小时）。
 
