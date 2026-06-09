@@ -1,0 +1,7 @@
+settings:
+  username: abner-forever
+  max_lines: 8
+  readme_file: ./README.md
+  commit_msg: "chore: update recent activity"
+  commit_name: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"

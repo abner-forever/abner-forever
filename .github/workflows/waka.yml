@@ -2,10 +2,15 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-  push:
+  # Do not run on push: this workflow commits README metric updates, and a
+  # push trigger would immediately start another metric update loop.
   schedule:
     # Run once per day at 00:00 UTC.
     - cron: '0 0 * * *'
+
+concurrency:
+  group: waka-readme-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
