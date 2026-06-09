@@ -1,20 +1,46 @@
 name: Waka Readme
+
 on:
   workflow_dispatch:
   push:
   schedule:
-    - cron: '0 0 0 * * ?' // 每天零点执行
+    # Run once per day at 00:00 UTC.
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README with WakaTime metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate required secrets
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False" # False隐藏工作的项目
-          SHOW_LOC_CHART: "False"
-          SHOW_TIMEZONE: "False" # False隐藏您所在的时区
-          SHOW_PROFILE_VIEWS: "False"
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "::error title=Missing WAKATIME_API_KEY secret::Create a repository secret named WAKATIME_API_KEY with your WakaTime API key."
+            exit 1
+          fi
 
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error title=Missing GH_TOKEN secret::Create a repository secret named GH_TOKEN with a GitHub Personal Access Token that has repo and user scopes. The built-in github.token cannot be used because waka-readme-stats calls the authenticated user API."
+            exit 1
+          fi
+
+      - name: Update README with WakaTime metrics
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # waka-readme-stats needs a user PAT. The built-in github.token is
+          # a GitHub App installation token and fails on GET /user with 403.
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False" # Hide WakaTime projects.
+          SHOW_LOC_CHART: "False"
+          SHOW_TIMEZONE: "False" # Hide local timezone.
+          SHOW_PROFILE_VIEWS: "False"
