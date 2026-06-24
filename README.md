@@ -67,13 +67,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
-2. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-blog](https://github.com/abner-forever/abner-blog)<br>
-3. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
+2. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
+3. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-blog](https://github.com/abner-forever/abner-blog)<br>
 4. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
 5. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
 6. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
 7. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
-8. ⭐ Starred [abner-forever/MediaForge](https://github.com/abner-forever/MediaForge)<br>
+8. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
 <!--RECENT_ACTIVITY:end-->
 
 > 该区块由 GitHub Actions 定时更新（每 6 小时）。
