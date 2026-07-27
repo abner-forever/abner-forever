@@ -67,8 +67,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
-2. ⭐ Starred [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine)<br>
-3. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
+2. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
+3. ⭐ Starred [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine)<br>
 4. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
 5. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
 6. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
