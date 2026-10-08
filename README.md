@@ -66,7 +66,6 @@
 ## 🗓️ Recent Activity（自动更新）
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [abner-forever/MediaForge-Electron](https://github.com/abner-forever/MediaForge-Electron)<br>
 <!--RECENT_ACTIVITY:end-->
 
 > 该区块由 GitHub Actions 定时更新（每 6 小时）。
