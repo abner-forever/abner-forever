@@ -66,6 +66,7 @@
 ## 🗓️ Recent Activity（自动更新）
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 > 该区块由 GitHub Actions 定时更新（每 6 小时）。
