@@ -66,9 +66,9 @@
 ## 🗓️ Recent Activity（自动更新）
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
-2. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
-3. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
+1. ⭐ Starred [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)<br>
+2. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
+3. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
 4. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
 5. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
 6. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
