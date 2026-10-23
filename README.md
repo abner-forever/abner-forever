@@ -69,11 +69,11 @@
 1. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
 2. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
 3. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
-4. ⭐ Starred [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)<br>
+4. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
 5. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
-6. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
+6. ⭐ Starred [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)<br>
 7. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
-8. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
+8. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 > 该区块由 GitHub Actions 定时更新（每 6 小时）。
