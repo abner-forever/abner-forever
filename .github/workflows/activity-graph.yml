@@ -1,0 +1,39 @@
+name: Update Activity Graph
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/activity_graph.py
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate graph
+        run: python .github/scripts/activity_graph.py
+      - name: Commit graph
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity-graph.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: update activity graph"
+          git pull --rebase origin main
+          git push origin HEAD:main

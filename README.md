@@ -82,7 +82,7 @@
 
 ## 📊 Activity Graph
 
-[![Abner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abner-forever&theme=github-compact)](https://github.com/abner-forever)
+[![Abner's github activity graph](./assets/activity-graph.svg)](https://github.com/abner-forever)
 
 ---
 
