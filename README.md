@@ -31,26 +31,26 @@
 
 ## 🚀 精选项目
 
-### 🔹 [MediaForge](https://github.com/abner-forever/MediaForge)
-自动化的微信公众号内容发布工具：从微博发现优质图文，结合 AI 完成内容评分与文案生成，再一键发布到公众号。
+### 🔹 [Abner Music](https://github.com/abner-forever/abner-music)
+面向 **macOS / Windows** 的桌面音乐播放器，将本地音乐、网络音频、在线搜索与个人歌单整合在一起。
 
-- **方向**：内容自动化 / AI 工作流
-- **技术栈**：Python
-- **亮点**：内容发现 + AI 处理 + 自动发布的一体化流程
+- **方向**：桌面应用 / 音乐播放与管理
+- **技术栈**：Electron Forge / Vue 3 / TypeScript
+- **亮点**：本地音乐导入、同步歌词、均衡器、迷你播放器与跨平台构建发布
 
-### 🔹 [abner-blog](https://github.com/abner-forever/abner-blog)
-基于 **NestJS + React** 的现代化全栈博客系统，采用 **pnpm Monorepo** 架构。
+### 🔹 [夜深 · night_sleep](https://github.com/abner-forever/night_sleep)
+本地优先的 **iOS / Android** 睡眠记录应用，提供睡眠统计、助眠音效与夜间录音，睡眠数据和录音保存在设备上。
 
-- **方向**：全栈工程实践
-- **技术栈**：TypeScript / NestJS / React
-- **亮点**：前后端分层清晰，适合持续迭代与功能扩展
+- **方向**：移动应用 / 睡眠记录与个人数据管理
+- **技术栈**：Flutter / Dart / Riverpod / Drift（SQLite）/ TensorFlow Lite
+- **亮点**：端侧模型辅助标注疑似鼾声与人声、睡眠趋势统计、完整备份与恢复
 
-### 🔹 [react-blog](https://github.com/abner-forever/react-blog)
-个人博客网站项目，用于记录文章、帖子与个人技术心得沉淀。
+### 🔹 [MediaForge · 图文工坊](https://github.com/abner-forever/MediaForge-Electron)
+微信公众号内容自动化桌面工具，串联多平台图文发现、AI 评分与写作、草稿管理和发布流程。
 
-- **方向**：内容平台 / 个人知识管理
-- **技术栈**：JavaScript / React
-- **亮点**：面向真实写作与输出场景的长期项目
+- **方向**：内容自动化 / AI 工作流 / 桌面工具
+- **技术栈**：Electron / React / TypeScript / Node.js / Express / Playwright
+- **亮点**：内置扫码登录、多账号管理、AI 内容创作与文章发布工作台
 
 ---
 
