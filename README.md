@@ -66,14 +66,14 @@
 ## 🗓️ Recent Activity（自动更新）
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-music](https://github.com/abner-forever/abner-music)<br>
+1. ⭐ Starred [abner-forever/abner-blog](https://github.com/abner-forever/abner-blog)<br>
 2. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-music](https://github.com/abner-forever/abner-music)<br>
 3. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-music](https://github.com/abner-forever/abner-music)<br>
 4. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-music](https://github.com/abner-forever/abner-music)<br>
 5. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-music](https://github.com/abner-forever/abner-music)<br>
-6. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
+6. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-music](https://github.com/abner-forever/abner-music)<br>
 7. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
-8. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-music](https://github.com/abner-forever/abner-music)<br>
+8. ⬆️ Pushed undefined commit(s) to [abner-forever/abner-forever](https://github.com/abner-forever/abner-forever)<br>
 <!--RECENT_ACTIVITY:end-->
 
 > 该区块由 GitHub Actions 定时更新（每 6 小时）。
