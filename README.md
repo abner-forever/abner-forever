@@ -66,7 +66,7 @@
 ## 🗓️ Recent Activity（自动更新）
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
+1. ⭐ Starred [meta/astryx](https://github.com/meta/astryx)<br>
 2. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
 3. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
 4. ⬆️ Pushed undefined commit(s) to [abner-forever/night_sleep](https://github.com/abner-forever/night_sleep)<br>
